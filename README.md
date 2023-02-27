@@ -2,14 +2,29 @@
 
 Full Stack Software Engineer recently graduated from Flatiron with proficiency in Javascript and Ruby on Rails! An electrical engineer in my previous career with strength in both troubleshooting and team work. I spend my time learning and sharpening my skills in designing and creating websites. I'm currently sharpening my skills in CSS, Rails and creating my portfolio.
 
-## Get in Touch :mailbox:
+## LinkedIn & Blog :mailbox:
 
 <p>
-  <a href="https://www.linkedin.com/in/igor-mestechkin-519a97109/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://benthedunn.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/igor-mestechkin-519a97109/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="26" width="26" /></a>
+  <a href="https://medium.com/@igor.mestechkin" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
  <br />
  &emsp;
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+## Skills :computer:
+
+<p align="left">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/ruby.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/rubyonrails.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/postgresql.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/materialdesign.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/redux.svg" />
+</p>
+
+<br />
+&emsp;
