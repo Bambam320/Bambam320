@@ -12,7 +12,7 @@ Full Stack Software Engineer recently graduated from Flatiron with proficiency i
  <br />
  &emsp;
 
-## Skills :book:
+## Technical Skills :book:
 
 <p align="left">
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg" />
