@@ -1,6 +1,6 @@
 # Hello there! I'm Igor :bowtie:
 
-Full Stack Software Engineer recently graduated from Flatiron with proficiency in Javascript and Ruby on Rails! An electrical engineer in my previous career with strength in both troubleshooting and team work. I spend my time learning and sharpening my skills in designing and creating websites. I'm currently sharpening my skills in CSS, Rails and creating my portfolio.
+Full Stack Software Engineer recently graduated from Flatiron with proficiency in Javascript, React, CSS and Ruby on Rails! An electrical engineer in my previous career with strength in both troubleshooting and team work. I spend my time learning and sharpening my skills in designing and creating websites. I'm practicing CSS, JavaScript and creating my portfolio website.
 
 ## LinkedIn & Blog :crystal_ball:
 
