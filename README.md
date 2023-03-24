@@ -12,28 +12,20 @@ Full Stack Software Engineer recently graduated from Flatiron with proficiency i
  <br />
  &emsp;
 
-<h3> Technical Skills :book: and Languages </h3>
-<img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-
-<img align="left" alt="Html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<h3> Technical Skills :book: and Languages 🧰</h3>
 <img align="left" alt="Css3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Materialui" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
-
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/css3.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/materialdesign.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/redux.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/ruby.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/rubyonrails.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/postgresql.svg" />
-
-
-</p>
-
+<img align="left" alt="Rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <br />
 &emsp;
