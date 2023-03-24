@@ -54,24 +54,14 @@
   <summary>
     <h3> 💬 About Me </h3> 
   </summary>
-  Full-stack software engineer and former electrical engineer, devout student and practitioner of both spoken and computer languages. Experienced in web development and data management from my time at Flatiron's software engineering program. Practiced in project development and team working from my time as an Electrical Engineer. 
-  Following the hundreds of hours spent in Flatiron's boot camp, I am now proficient in creating full stack apps using the following languages and technologies:
+  Full-stack software engineer and former electrical engineer, devout student and practitioner of both spoken and computer languages. Experienced in web development and data management from my time at Flatiron's software engineering program. Practiced in project development and team working from my time as an Electrical Engineer.\
 
-‣ JavaScript
-‣ HTML5 
-‣ CSS
-‣ React
-‣ Redux 
-‣ Ruby-on-Rails
-‣ PostgreSQL 
-‣ Markdown
+  ‣ Passionate about working on applications that provide support, access or information to everyone.\ 
+  ‣ Interested in making the big wide world more accessible and understandable to the public.\
+  ‣ Developed a profound appreciation for learning programming languages and their frameworks, which granted me access to this fascinating new career.\
+  ‣ Carry a deep appreciation for well-written instructions and manuals. As a result, I enjoy writing informed and concise blogs and readme's.\
+  ‣ Adept at practicing the REST architecture style and SOLID principles, allowing seamless use of my apps in other projects.\
 
-‣ Passionate about working on applications that provide support, access or information to everyone. 
-‣ Interested in making the big wide world more accessible and understandable to the public. 
-‣ Developed a profound appreciation for learning programming languages and their frameworks, which granted me access to this fascinating new career. 
-‣ Carry a deep appreciation for well-written instructions and manuals. As a result, I enjoy writing informed and concise blogs and readme's. 
-‣ Adept at practicing the REST architecture style and SOLID principles, allowing seamless use of my apps in other projects.  
-
-When I'm not building software, I enjoy learning a new spoken or programming language, practicing martial arts, conditioning exercises, cooking, gardening, woodworking, hiking with my dogs and reading through my never ending book list. Feel free to reach out to chat about tech, corgis, or just to say hello!
+  When I'm not building software, I enjoy learning a new spoken or programming language, practicing martial arts, conditioning exercises, cooking, gardening, woodworking, hiking with my dogs and reading through my never ending book list. Feel free to reach out to chat about tech, corgis, or just to say hello!
 
 &emsp;
