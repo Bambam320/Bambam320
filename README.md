@@ -1,6 +1,13 @@
-# Hello there! I'm Igor :bowtie:
+# Igor Mestechkin 👔
 
-Full Stack Software Engineer recently graduated from Flatiron with proficiency in Javascript, React, CSS and Ruby on Rails! An electrical engineer in my previous career with strength in both troubleshooting and team work. I spend my time learning and sharpening my skills in designing and creating websites. I'm practicing CSS, JavaScript and creating my portfolio website.
+**`Full Stack Developer and Lifelong Student`**
+
+- 👋 Hi, I’m Igor
+- 🎓 I'm practicing CSS, JavaScript and creating my portfolio website
+- 💗 I’m passionate about learning and developing
+- 💞️ Looking to collaborate on anything beginner friendly
+- 📚 I enjoy learning new languages, building apps and technical practice
+- I love 🐶 animals 🐱 🍕 delicious food 🍜 🎥 movies and books 📕 
 
 ## LinkedIn & Blog :crystal_ball:
 
