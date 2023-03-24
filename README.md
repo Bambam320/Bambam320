@@ -12,24 +12,19 @@
 #
 <h3> 💻 Connect </h3>
 
-<p>
   <a href="https://www.linkedin.com/in/igor-mestechkin-519a97109/" target="blank">
     <img align="left" style="padding-right:10px;" width="30px" height="30px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
     />
   </a>
-
   <a href="https://medium.com/@igor.mestechkin" target="blank">
     <img align="left" style="padding-right:10px;" width="30px" height="30px"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
       alt="Medium" id="Medium Blog"  
     />
-  </a>
- </p>
- 
- <br />
- &emsp;
+  </a> 
 
+#
 <h3> Technical Skills :book: and Languages 🧰</h3>
 <img align="left" alt="Css3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
@@ -45,5 +40,37 @@
 <img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<br />
+
+#
+<h3>⚡ My Codewars Profile</h3>
+<a href="https://www.codewars.com/users/Bambam320">
+  <img align="left" width="300px" style="padding-right:10px;" src="https://www.codewars.com/users/Bambam320/badges/large" alt="Codewars">
+</a>
+
+#
+<details>
+  <summary>
+    <h3> 💬 About Me </h3> 
+  </summary>
+  Full-stack software engineer and former electrical engineer, devout student and practitioner of both spoken and computer languages. Experienced in web development and data management from my time at Flatiron's software engineering program. Practiced in project development and team working from my time as an Electrical Engineer.
+
+Following the hundreds of hours spent in Flatiron's boot camp, I am now proficient in creating full stack apps using the following languages and technologies:
+
+‣ JavaScript
+‣ HTML5 
+‣ CSS
+‣ React
+‣ Redux 
+‣ Ruby-on-Rails
+‣ PostgreSQL 
+‣ Markdown
+
+‣ Passionate about working on applications that provide support, access or information to everyone. 
+‣ Interested in making the big wide world more accessible and understandable to the public. 
+‣ Developed a profound appreciation for learning programming languages and their frameworks, which granted me access to this fascinating new career. 
+‣ Carry a deep appreciation for well-written instructions and manuals. As a result, I enjoy writing informed and concise blogs and readme's. 
+‣ Adept at practicing the REST architecture style and SOLID principles, allowing seamless use of my apps in other projects.  
+
+When I'm not building software, I enjoy learning a new spoken or programming language, practicing martial arts, conditioning exercises, cooking, gardening, woodworking, hiking with my dogs and reading through my never ending book list. Feel free to reach out to chat about tech, corgis, or just to say hello!
+
 &emsp;
