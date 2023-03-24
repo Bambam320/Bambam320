@@ -15,16 +15,14 @@
 <p>
   <a href="https://www.linkedin.com/in/igor-mestechkin-519a97109/" target="blank">
     <img align="left" style="padding-right:10px;" width="30px" height="30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
     />
   </a>
 
-<a href="https://bradleyspiclin.github.io/PortfolioProject/">
-  <img align="left" width="30px" src="https://i.imgur.com/zgGbYXf.png" alt="Portfolio Site" style="padding-right:10px;">
-</a>
-
   <a href="https://medium.com/@igor.mestechkin" target="blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/  medium.svg"  height="30" width="30" 
+    <img align="left" style="padding-right:10px;" width="30px" height="30px"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
+      alt="Medium" id="Medium Blog"  
     />
   </a>
  </p>
