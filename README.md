@@ -12,10 +12,17 @@ Full Stack Software Engineer recently graduated from Flatiron with proficiency i
  <br />
  &emsp;
 
-## Technical Skills :book:
+<h3> Technical Skills :book: and Languages </h3>
+<img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
-<p align="left">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/javascript.svg" />
+<img align="left" alt="Html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Css3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/react.svg" />
