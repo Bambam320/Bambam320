@@ -11,7 +11,6 @@
 
 #
 <h3> 💻 Connect </h3>
-
   <a href="https://www.linkedin.com/in/igor-mestechkin-519a97109/" target="blank">
     <img align="left" style="padding-right:10px;" width="30px" height="30px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"
@@ -23,6 +22,7 @@
       alt="Medium" id="Medium Blog"  
     />
   </a> 
+</br>
 
 #
 <h3> Technical Skills :book: and Languages 🧰</h3>
@@ -40,21 +40,22 @@
 <img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+</br>
 
 #
 <h3>⚡ My Codewars Profile</h3>
 <a href="https://www.codewars.com/users/Bambam320">
   <img align="left" width="300px" style="padding-right:10px;" src="https://www.codewars.com/users/Bambam320/badges/large" alt="Codewars">
 </a>
+</br>
 
 #
 <details>
   <summary>
     <h3> 💬 About Me </h3> 
   </summary>
-  Full-stack software engineer and former electrical engineer, devout student and practitioner of both spoken and computer languages. Experienced in web development and data management from my time at Flatiron's software engineering program. Practiced in project development and team working from my time as an Electrical Engineer.
-
-Following the hundreds of hours spent in Flatiron's boot camp, I am now proficient in creating full stack apps using the following languages and technologies:
+  Full-stack software engineer and former electrical engineer, devout student and practitioner of both spoken and computer languages. Experienced in web development and data management from my time at Flatiron's software engineering program. Practiced in project development and team working from my time as an Electrical Engineer. 
+  Following the hundreds of hours spent in Flatiron's boot camp, I am now proficient in creating full stack apps using the following languages and technologies:
 
 ‣ JavaScript
 ‣ HTML5 
