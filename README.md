@@ -50,6 +50,7 @@
 </br>
 
 #
+![](https://komarev.com/ghpvc/?username=Bambam320&color=brightgreen&style=plastic&label=Visitors)
 <details>
   <summary>
     <h3> 💬 About Me </h3> 
