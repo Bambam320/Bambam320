@@ -8,6 +8,7 @@
 - 💞️ Looking to collaborate on anything beginner friendly
 - 📚 I enjoy learning new languages, building apps and technical practice
 - I love 🐶 animals 🐱 🍕 delicious food 🍜 🎥 movies and books 📕 
+
 ![](https://komarev.com/ghpvc/?username=Bambam320&color=brightgreen&style=plastic&label=Visitors)
 
 #
